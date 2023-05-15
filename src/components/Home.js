@@ -26,7 +26,6 @@ const Home = () => {
   }, [input]);
   const styles = {
     paperContainer: {
-      // backgroundImage: `url(${posterImage})`,
       backgroundSize: "cover",
       backgroundRepeat: "no-repeat",
       color: "white",
